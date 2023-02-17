@@ -42,3 +42,12 @@ let bMayWeContactYou;
 let sFirstName = 'Paulo';
 let numYourAge = 30;
 let boolMayWeContactYou = false;
+
+// STEP 6
+// Create a variable.
+// Add a number and a string and display the coerced result in the browser’s console window.
+
+let myVariable = 10;
+console.log(myVariable + " is the answer");
+
+
