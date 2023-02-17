@@ -16,3 +16,10 @@ let boolValue = true;
 let nullValue = null;
 
 // STEP 3
+// Give me two examples of complex / variable expressions.
+const result = ((a, b) => {
+  const sum = a + b;
+  const diff = a - b;
+  return sum * diff;
+})(2, 4);
+
