@@ -68,3 +68,13 @@ console.log(variableB + variableA + " is a " + typeof (variableB + variableA) + 
 
 let someString = 'Who once said, "Only two things are infinite, the universe and human stupidity, and I\'m not sure about the former."';
 console.log(someString);
+
+// STEP 9 
+// Create a variable that produces a null value in the console window.
+// Then, create a variable that produces an undefined value in the console window.
+
+let nullVariable = null;
+console.log(nullVariable);
+
+let undefinedVariable;
+console.log(undefinedVariable);
