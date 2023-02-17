@@ -34,4 +34,11 @@ let strState;
 let nZipCode;
 let iYourAge;
 let strReferralSource;
-let strMayWeContactYou;
+let bMayWeContactYou;
+
+// STEP 5
+// Take the 3 of the 9 variables that you created above and demonstrate 3 ways for declaring and assigning values to those variables.
+
+let sFirstName = 'Paulo';
+let numYourAge = 30;
+let boolMayWeContactYou = false;
