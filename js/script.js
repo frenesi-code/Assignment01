@@ -61,3 +61,10 @@ console.log(variable1 + " is a " + typeof variable1 + " value");
 let variableB = 10;
 console.log(variableB + variableA + " is a " + typeof (variableB + variableA) + " value");
 
+// STEP 8
+// Is the following string literal valid? If not, how would you fix it?
+// let someString = 'Who once said, "Only two things are infinite, the universe and human stupidity, and I'm not sure about the former."'
+// console.log(someString)
+
+let someString = 'Who once said, "Only two things are infinite, the universe and human stupidity, and I\'m not sure about the former."';
+console.log(someString);
