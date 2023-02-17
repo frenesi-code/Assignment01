@@ -50,4 +50,14 @@ let boolMayWeContactYou = false;
 let myVariable = 10;
 console.log(myVariable + " is the answer");
 
+// STEP 7
+// Create two variables.
+// For the first variable, add a Boolean and a string and display the coerced result.
+// For the second variable, add a number and a Boolean and display the coerced result.
+
+let variableA = true;
+console.log(variable1 + " is a " + typeof variable1 + " value");
+
+let variableB = 10;
+console.log(variableB + variableA + " is a " + typeof (variableB + variableA) + " value");
 
